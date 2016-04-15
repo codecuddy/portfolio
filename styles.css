@@ -62,7 +62,7 @@ section {
 .objective-text {
     font-size: 32px;
     color: #000080;
-    text-shadow: 1px 1px 1px #000;
+    text-shadow: 1px 1px 1px #444;
 }
 
 #about-me {
@@ -169,6 +169,14 @@ section {
 
 #contact_info .container {
     padding: 40px;
+}
+
+.phone {
+    color: #ffff00;
+}
+
+.phone:hover {
+    color: #e6f0ff;
 }
 
 #number {
